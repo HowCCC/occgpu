@@ -5,7 +5,7 @@ setup(
     name="occgpu",
     version="0.1.0",
     author="Three Liu",
-    author_email="your.email@example.com",
+    author_email="liushurui66666@example.com",
     description="A tool to occupy free GPU memory and prevent others from using it",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",

@@ -22,7 +22,7 @@ Perfect for researchers or engineers who want to reserve GPU resources in shared
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourname/occgpu.git
+git clone https://github.com/howccc/occgpu.git
 cd occgpu
 
 # Install in development mode

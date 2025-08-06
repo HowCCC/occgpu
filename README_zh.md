@@ -9,10 +9,6 @@
 **通过自动占用 GPU 空闲显存，防止他人使用。**  
 非常适合实验室、高校服务器或共享云集群等多人共用 GPU 的环境。
 
-![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Unix-orange)
-
 ---
 
 ## 🚀 功能特性
@@ -31,7 +27,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/howcca/occgpu.git
+git clone https://github.com/howccc/occgpu.git
 cd occgpu
 
 pip install -e .
