@@ -9,7 +9,7 @@ setup(
     description="A tool to occupy free GPU memory and prevent others from using it",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourname/occgpu",  # 可选
+    url="https://github.com/howccc/occgpu",  # 可选
     packages=find_packages(),
     python_requires=">=3.6",
     install_requires=[
