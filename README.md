@@ -21,6 +21,13 @@ Perfect for researchers or engineers who want to reserve GPU resources in shared
 ## 📦 Installation & Usage
 
 ```bash
+
+# Install from PyPi
+
+occgpu is released on PyPi
+
+pip install occgpu==0.1.0
+
 # Clone the repo
 git clone https://github.com/howccc/occgpu.git
 cd occgpu
@@ -37,3 +44,5 @@ occgpu
 # or configure through the CLI(priorest)
 
 occgpu -p <PROPORTION> -n <NUMBERS>
+
+
