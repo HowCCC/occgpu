@@ -25,6 +25,8 @@ Perfect for researchers or engineers who want to reserve GPU resources in shared
 # Install from PyPi
 
 occgpu is released on PyPi
+https://pypi.org/project/occgpu/0.1.0/
+
 
 pip install occgpu==0.1.0
 
